@@ -1,0 +1,13 @@
+torch
+numpy
+tqdm
+matplotlib
+scikit-learn
+Pillow
+pyyaml
+yacs
+opencv-python
+Cython
+easydict
+fvcore
+navpy
